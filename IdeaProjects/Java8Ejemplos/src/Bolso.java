@@ -79,6 +79,6 @@ public class Bolso {
     }
 
     public void comprarBolso(){
-        System.out.println("Me he comprado un "+ getModelo()+ " de "+ getMarca() + " por " +getPrecio()+ " euracos");
+        System.out.println("Me he comprado un gran"+ getModelo()+ " de "+ getMarca() + " por " +getPrecio()+ " euracos");
     }
 }
