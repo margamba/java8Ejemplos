@@ -38,6 +38,7 @@ public class Animal {
     }
 
     public int getNumPatas() {
+        String abxx;
         return numPatas;
     }
 
